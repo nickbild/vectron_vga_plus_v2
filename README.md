@@ -1,1 +1,4 @@
-# vectron_vga_plus_v2
+# Vectron VGA Plus v2
+
+Coming soon!
+
