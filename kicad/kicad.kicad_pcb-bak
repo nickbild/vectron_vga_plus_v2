@@ -537,7 +537,7 @@
   )
 
   (module Oscillator:Oscillator_DIP-8 (layer F.Cu) (tedit 58CD3344) (tstamp 6201EAED)
-    (at 435.705354 317.775)
+    (at 268.605 179.07)
     (descr "Oscillator, DIP8,http://cdn-reichelt.de/documents/datenblatt/B400/OSZI.pdf")
     (tags oscillator)
     (path /6203F69F)
@@ -591,7 +591,7 @@
   )
 
   (module Package_DIP:DIP-20_W7.62mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 6201EACB)
-    (at 412.315354 243.215)
+    (at 419.6588 271.6276)
     (descr "20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (path /6202F7C5)
@@ -667,7 +667,7 @@
   )
 
   (module Package_DIP:DIP-20_W7.62mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 6201EAA3)
-    (at 423.165354 243.215)
+    (at 417.8808 223.4692)
     (descr "20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (path /6202CF6B)
@@ -743,7 +743,7 @@
   )
 
   (module Package_DIP:DIP-20_W7.62mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 6201EA7B)
-    (at 401.465354 270.215)
+    (at 400.1008 269.6464)
     (descr "20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (path /6202E2F1)
@@ -819,7 +819,7 @@
   )
 
   (module Package_DIP:DIP-20_W7.62mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 6201EA53)
-    (at 412.315354 270.215)
+    (at 396.24 224.79)
     (descr "20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (path /62029216)
@@ -895,7 +895,7 @@
   )
 
   (module Package_DIP:DIP-32_W15.24mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 6201EA2B)
-    (at 364.615354 243.215)
+    (at 444.1952 222.758)
     (descr "32-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 15.24mm 600mil")
     (path /62033792)
@@ -995,7 +995,7 @@
   )
 
   (module Package_DIP:DIP-14_W7.62mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 6201E9F7)
-    (at 466.565354 265.115)
+    (at 453.9996 186.7916)
     (descr "14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (path /6203B5DC)
@@ -1059,7 +1059,7 @@
   )
 
   (module Package_DIP:DIP-32_W15.24mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 6201E9D5)
-    (at 383.015354 243.215)
+    (at 446.278 272.7452)
     (descr "32-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 15.24mm 600mil")
     (path /62030D08)
@@ -1159,7 +1159,7 @@
   )
 
   (module Package_DIP:DIP-14_W7.62mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 6201E9A1)
-    (at 455.715354 287.015)
+    (at 434.086 185.1152)
     (descr "14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (path /62016CFC)
@@ -1223,7 +1223,7 @@
   )
 
   (module Package_DIP:DIP-16_W7.62mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 6201E97F)
-    (at 400.155354 297.215)
+    (at 410.4132 185.166)
     (descr "16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (path /61FF9B13)
@@ -1291,7 +1291,7 @@
   )
 
   (module Package_DIP:DIP-14_W7.62mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 6201E95B)
-    (at 389.305354 307.365)
+    (at 410.21 137.795)
     (descr "14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (path /61FF52D2)
@@ -1355,7 +1355,7 @@
   )
 
   (module Package_DIP:DIP-16_W7.62mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 6201E939)
-    (at 434.015354 265.115)
+    (at 387.9088 186.8424)
     (descr "16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (path /61FF96FE)
@@ -1423,7 +1423,7 @@
   )
 
   (module Package_DIP:DIP-16_W7.62mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 6201E915)
-    (at 434.015354 287.015)
+    (at 375.7676 225.9076)
     (descr "16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (path /6201F388)
@@ -1491,7 +1491,7 @@
   )
 
   (module Package_DIP:DIP-16_W7.62mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 6201E8F1)
-    (at 477.415354 243.215)
+    (at 376.7836 269.0368)
     (descr "16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (path /62027BC8)
@@ -1559,7 +1559,7 @@
   )
 
   (module Package_DIP:DIP-16_W7.62mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 6201E8CD)
-    (at 455.715354 265.115)
+    (at 364.6424 184.2516)
     (descr "16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (path /61FF8E9B)
@@ -1627,7 +1627,7 @@
   )
 
   (module Package_DIP:DIP-16_W7.62mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 6201E8A9)
-    (at 444.865354 287.015)
+    (at 354.9904 226.9744)
     (descr "16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (path /6201E4E2)
@@ -1695,7 +1695,7 @@
   )
 
   (module Package_DIP:DIP-16_W7.62mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 6201E885)
-    (at 423.165354 292.115)
+    (at 356.4636 267.8684)
     (descr "16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (path /62026D34)
@@ -1763,7 +1763,7 @@
   )
 
   (module Package_DIP:DIP-16_W7.62mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 6201E861)
-    (at 466.565354 243.215)
+    (at 341.4776 180.6448)
     (descr "16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (path /61FF8A04)
@@ -1831,7 +1831,7 @@
   )
 
   (module Package_DIP:DIP-20_W7.62mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 6201E83D)
-    (at 401.465354 243.215)
+    (at 381 134.62)
     (descr "20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (path /61FF2949)
@@ -1907,7 +1907,7 @@
   )
 
   (module Package_DIP:DIP-16_W7.62mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 6201E815)
-    (at 444.865354 265.115)
+    (at 335.3816 267.8176)
     (descr "16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (path /620246A1)
@@ -1975,7 +1975,7 @@
   )
 
   (module Package_DIP:DIP-16_W7.62mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 6201E7F1)
-    (at 455.715354 243.215)
+    (at 334.8228 224.282)
     (descr "16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (path /6201CD94)
@@ -2043,7 +2043,7 @@
   )
 
   (module Package_DIP:DIP-16_W7.62mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 6201E7CD)
-    (at 423.165354 270.215)
+    (at 319.532 181.4576)
     (descr "16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (path /61FF7F16)
@@ -2111,7 +2111,7 @@
   )
 
   (module Package_DIP:DIP-16_W7.62mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 6201E7A9)
-    (at 411.005354 297.215)
+    (at 314.7568 266.446)
     (descr "16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (path /62022F24)
@@ -2179,7 +2179,7 @@
   )
 
   (module Package_DIP:DIP-16_W7.62mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 6201E785)
-    (at 389.305354 285.465)
+    (at 314.8076 224.536)
     (descr "16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (path /6201A66E)
@@ -2247,7 +2247,7 @@
   )
 
   (module Package_DIP:DIP-20_W7.62mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 6201E761)
-    (at 378.455354 285.465)
+    (at 339.725 133.985)
     (descr "20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (path /61FF1E8C)
@@ -2323,7 +2323,7 @@
   )
 
   (module Package_DIP:DIP-14_W7.62mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 6201E739)
-    (at 477.415354 265.115)
+    (at 297.5356 184.2516)
     (descr "14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (path /61FF5F4E)
@@ -2387,7 +2387,7 @@
   )
 
   (module Package_DIP:DIP-16_W7.62mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 6201E717)
-    (at 444.865354 243.215)
+    (at 295.91 223.774)
     (descr "16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (path /62018648)
@@ -2455,7 +2455,7 @@
   )
 
   (module Package_DIP:DIP-16_W7.62mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 6201E6F3)
-    (at 434.015354 243.215)
+    (at 294.9956 265.938)
     (descr "16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (path /6202210C)
@@ -2523,7 +2523,7 @@
   )
 
   (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 6201E6CF)
-    (at 400.105354 323.115)
+    (at 410.773354 348.3118)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /67A62A68)
@@ -2564,7 +2564,7 @@
   )
 
   (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 6201E6B8)
-    (at 410.875354 319.065)
+    (at 421.543354 344.2618)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /672CEC76)
@@ -2605,7 +2605,7 @@
   )
 
   (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 6201E6A1)
-    (at 400.105354 319.065)
+    (at 410.773354 344.2618)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /672CE19D)
@@ -2646,7 +2646,7 @@
   )
 
   (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 6201E68A)
-    (at 364.615354 285.415)
+    (at 411.402154 332.3542)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /671DFF81)
@@ -2687,7 +2687,7 @@
   )
 
   (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 6201E673)
-    (at 350.665354 285.915)
+    (at 397.452154 332.8542)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /67A61F3B)
@@ -2728,7 +2728,7 @@
   )
 
   (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 6201E65C)
-    (at 421.805354 313.965)
+    (at 421.5892 356.6668)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /67A6355B)
@@ -2769,7 +2769,7 @@
   )
 
   (module Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical (layer F.Cu) (tedit 59FED5CC) (tstamp 6201E645)
-    (at 488.965354 243.465)
+    (at 457.8096 355.4984)
     (descr "Through hole straight pin header, 1x05, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x05 2.54mm single row")
     (path /634873D4)
@@ -2815,7 +2815,7 @@
   )
 
   (module L77HDE15SD1CH4F:AMPHENOL_L77HDE15SD1CH4F (layer F.Cu) (tedit 619D1343) (tstamp 6201E62C)
-    (at 360.635354 295.43)
+    (at 522.8572 345.2876)
     (path /6348E588)
     (fp_text reference J8 (at -4.305 -6.455) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2883,7 +2883,7 @@
   )
 
   (module Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical (layer F.Cu) (tedit 59FED5CC) (tstamp 6201E600)
-    (at 379.155354 312.715)
+    (at 307.730554 368.1378)
     (descr "Through hole straight pin header, 1x05, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x05 2.54mm single row")
     (path /634892F6)
@@ -2929,7 +2929,7 @@
   )
 
   (module Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical (layer F.Cu) (tedit 59FED5CC) (tstamp 6201E5E7)
-    (at 360.715354 243.465)
+    (at 419.2524 92.71)
     (descr "Through hole straight pin header, 1x16, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x16 2.54mm single row")
     (path /6216803F)
@@ -2997,7 +2997,7 @@
   )
 
   (module Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical (layer F.Cu) (tedit 59FED5CC) (tstamp 6201E5C3)
-    (at 370.385354 315.955)
+    (at 380.1364 316.992)
     (descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x02 2.54mm single row")
     (path /63482FD4)
@@ -3037,7 +3037,7 @@
   )
 
   (module Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical (layer F.Cu) (tedit 59FED5CC) (tstamp 6201E5AD)
-    (at 356.065354 243.465)
+    (at 373.8372 89.1032)
     (descr "Through hole straight pin header, 1x16, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x16 2.54mm single row")
     (path /6212F582)
@@ -3105,7 +3105,7 @@
   )
 
   (module Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical (layer F.Cu) (tedit 59FED5CC) (tstamp 6201E589)
-    (at 351.415354 243.465)
+    (at 399.1864 92.8624)
     (descr "Through hole straight pin header, 1x16, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x16 2.54mm single row")
     (path /6205CDCD)
@@ -3173,7 +3173,7 @@
   )
 
   (module Connector_PinHeader_2.54mm:PinHeader_1x18_P2.54mm_Vertical (layer F.Cu) (tedit 59FED5CC) (tstamp 6201E565)
-    (at 346.765354 243.465)
+    (at 271.3228 338.8868)
     (descr "Through hole straight pin header, 1x18, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x18 2.54mm single row")
     (path /6347BB28)
@@ -3245,7 +3245,7 @@
   )
 
   (module Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical (layer F.Cu) (tedit 59FED5CC) (tstamp 6201E53F)
-    (at 383.805354 312.715)
+    (at 312.380554 368.1378)
     (descr "Through hole straight pin header, 1x05, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x05 2.54mm single row")
     (path /6348B9E8)
@@ -3513,7 +3513,7 @@
   )
 
   (module Capacitor_THT:CP_Radial_D10.0mm_P5.00mm (layer F.Cu) (tedit 5AE50EF1) (tstamp 6201E45A)
-    (at 468.48 288.215)
+    (at 482.0412 337.4136)
     (descr "CP, Radial series, Radial, pin pitch=5.00mm, , diameter=10mm, Electrolytic Capacitor")
     (tags "CP Radial series Radial pin pitch 5.00mm  diameter 10mm Electrolytic Capacitor")
     (path /6204B0B9)
