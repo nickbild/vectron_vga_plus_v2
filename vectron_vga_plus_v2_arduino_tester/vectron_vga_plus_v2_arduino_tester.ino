@@ -33,7 +33,7 @@
 uint32_t address = 0;
 
 void setup() {
-  Serial.begin(115200);
+  Serial.begin(9600);
 
   pinMode(ADDR0, OUTPUT);
   pinMode(ADDR1, OUTPUT);
@@ -76,6 +76,18 @@ void loop() {
   
   drawFullScreen();  
   loopCount += 1;
+
+  if (loopCount == 2) {
+    Serial.println("Chip swapping starting...");
+    for (int h=0; h<1000000; h++) {
+      digitalWrite(WE, 1);
+      digitalWrite(CE, 1);
+      delay(1);
+      digitalWrite(WE, 1);
+      digitalWrite(CE, 0);
+      delay(1);
+    }
+  }
 }
 
 void drawFullScreen() {
@@ -85,10 +97,10 @@ void drawFullScreen() {
 
   address = 0;
   
-  Serial.println("Clearing RAM.");
-  for (uint32_t v = 0; v < 210000; v++) {
-    writeSRAM(v, 31);
-  }
+//  Serial.println("Clearing RAM.");
+//  for (uint32_t v = 0; v < 210000; v++) {
+//    writeSRAM(v, 31);
+//  }
 
   Serial.println("Starting write.");
 
