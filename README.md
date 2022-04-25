@@ -51,6 +51,7 @@ Vectron VGA Plus v2 circuit diagram:
 - 1 x VGA adapter
 - 2.54" spaced male header pins
 - 2.54" spaced jumpers
+- PCB ([KiCad Design Files](https://github.com/nickbild/vectron_vga_plus_v2/tree/main/kicad))
 
 ## About the Author
 
