@@ -34,6 +34,24 @@ Vectron VGA Plus v2 circuit diagram:
 
 ## Bill of Materials
 
+- 1 x 25.175 MHz crystal oscillator
+- 2 x 74LS682
+- 1 x 74AC32
+- 1 x 74AC08
+- 2 x AS6C4008-55PCN SRAM
+- 2 x 74AC74
+- 5 x 74AC161
+- 2 x 74AC04
+- 4 x 74AC244
+- 10 x 74LS157
+- 3 x 1000 uF electrolytic capactitors
+- 30 x 0.01 uF ceramic capacitors
+- 3 x 100 ohm resistors
+- 3 x 200 ohm resistors
+- 1 x VGA adapter
+- 2.54" spaced male header pins
+- 2.54" spaced jumpers
+
 ## About the Author
 
 [Nick A. Bild, MS](https://nickbild79.firebaseapp.com/#!/)
