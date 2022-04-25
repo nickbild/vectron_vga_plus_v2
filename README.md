@@ -14,6 +14,8 @@ Coming soon!
 
 ![](https://raw.githubusercontent.com/nickbild/vectron_vga_plus_v2/main/media/full_view_zoom_sm.jpg)
 
+Save time with a Hackaday comments generator, requiring only four lines of BASIC:
+
 ![](https://raw.githubusercontent.com/nickbild/vectron_vga_plus_v2/main/media/screenshot_sm.jpg)
 
 ![](https://raw.githubusercontent.com/nickbild/vectron_vga_plus_v2/main/media/top_zoom_in_sm.jpg)
@@ -23,6 +25,8 @@ Here is the Vectron 65 Plus computer breadboard prototype (soon to be a PCB) int
 ![](https://raw.githubusercontent.com/nickbild/vectron_vga_plus_v2/main/media/top_zoom_out_annotated_sm.jpg)
 
 ![](https://raw.githubusercontent.com/nickbild/vectron_vga_plus_v2/main/media/top_zoom_out_sm.jpg)
+
+Vectron VGA Plus v2 circuit diagram:
 
 ![](https://raw.githubusercontent.com/nickbild/vectron_vga_plus_v2/main/media/kicad.svg)
 
