@@ -8,6 +8,8 @@ Coming soon!
 
 ## Media
 
+See it in action: [YouTube](https://www.youtube.com/watch?v=e3QL6s6VHpY)
+
 ![](https://raw.githubusercontent.com/nickbild/vectron_vga_plus_v2/main/media/vvga_angle_sm.jpg)
 
 ![](https://raw.githubusercontent.com/nickbild/vectron_vga_plus_v2/main/media/vvga_top_sm.jpg)
@@ -33,3 +35,5 @@ Vectron VGA Plus v2 circuit diagram:
 ## Bill of Materials
 
 ## About the Author
+
+[Nick A. Bild, MS](https://nickbild79.firebaseapp.com/#!/)
