@@ -22,6 +22,8 @@ Coming soon!
 
 ![](https://raw.githubusercontent.com/nickbild/vectron_vga_plus_v2/main/media/top_zoom_out_sm.jpg)
 
+![](https://raw.githubusercontent.com/nickbild/vectron_vga_plus_v2/main/media/kicad.svg)
+
 ## Bill of Materials
 
 ## About the Author
