@@ -13,7 +13,7 @@ The key to the simplified design of the Vectron VGA Plus boards is to use more R
 This second version offers a number of enhancements over the original:
 
 - First, a second RAM chip was added to the design.  This allows for an active/standby scheme, such that the standby chip can receive updates without interupting the active chip that is displaying the video output.  When the host is done writing, the chips can switch roles in an instant, which updates the display without interruption.
-<br>The original version used a single RAM chip, which led to momentary blips in the display during writes.  This new type of design would have been simpler to achieve by using dual-port RAM, but in the world of DIP chips suitable for retro projects, I couldn't source anything above about 4K, and I need a 256K chip for my selected resolution, so that wasn't a reasonable choice.
+<br><br>The original version used a single RAM chip, which led to momentary blips in the display during writes.  This new type of design would have been simpler to achieve by using dual-port RAM, but in the world of DIP chips suitable for retro projects, I couldn't source anything above about 4K, and I need a 256K chip for my selected resolution, so that wasn't a reasonable choice.
 
 - The memory address at which the counter resets is no longer hard-wired.  It can now be tweaked by setting jumpers at the top of the board, which allows the signal to be fine-tuned or even an entirely different resolution to be produced.  Since the storage of output signals in RAM offers total flexibility, it makes sense to allow for a frame of any number of pixels (up to the maximum allowed by RAM size).
 
