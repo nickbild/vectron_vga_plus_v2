@@ -19,7 +19,7 @@ This second version offers a number of enhancements over the original:
 
 - The size of the PCB was reduced significantly, and lots more capacitors were added to ensure perfect stability of signal under all conditions.  Additional power ports were also added to allow for grounding between additional peripherals.
 
-To display graphics with the device, it first needs to be initialized with a blank screen (i.e. setting all the appropriate H syncs and V syncs), then pixels are writen by setting the address pins to correspond with a pixel on screen, and the data pins to the RGB value, then issuing a simple latching signal.  The details are made clear in the [Arduino sketch](https://github.com/nickbild/vectron_vga_plus_v2/tree/main/vectron_vga_plus_v2_arduino_tester) that can be used to test the board out.  The tester will produce the following display output:
+To display graphics with the device, it first needs to be initialized with a blank screen (i.e. setting all the appropriate H syncs and V syncs), then pixels are written by setting the address pins to correspond with a pixel on screen, and the data pins to the RGB value, then issuing a simple latching signal.  The details are made clear in the [Arduino sketch](https://github.com/nickbild/vectron_vga_plus_v2/tree/main/vectron_vga_plus_v2_arduino_tester) that can be used to test the board out.  The tester will produce the following display output:
 
 ![](https://raw.githubusercontent.com/nickbild/vectron_vga_plus/main/media/demo_screen_sm.jpg)
 
