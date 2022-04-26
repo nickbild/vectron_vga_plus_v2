@@ -19,7 +19,11 @@ This second version offers a number of enhancements over the original:
 
 - The size of the PCB was reduced significantly, and lots more capacitors were added to ensure perfect stability of signal under all conditions.  Additional power ports were also added to allow grounding between additional peripherals.
 
-To display graphics with the device, it first needs to be initialized with a blank screen (i.e. setting all the appropriate H syncs and V syncs), then pixels are writen by setting the address pins to correspond with a pixel on screen, and the data to the RGB value, then issuing a simple latching signal.  The details are made clear in the [Arduino sketch](https://github.com/nickbild/vectron_vga_plus_v2/tree/main/vectron_vga_plus_v2_arduino_tester) that can be used to test the board out.
+To display graphics with the device, it first needs to be initialized with a blank screen (i.e. setting all the appropriate H syncs and V syncs), then pixels are writen by setting the address pins to correspond with a pixel on screen, and the data pins to the RGB value, then issuing a simple latching signal.  The details are made clear in the [Arduino sketch](https://github.com/nickbild/vectron_vga_plus_v2/tree/main/vectron_vga_plus_v2_arduino_tester) that can be used to test the board out.  The tester will produce the following display output:
+
+![](https://raw.githubusercontent.com/nickbild/vectron_vga_plus/main/media/demo_screen_sm.jpg)
+
+In the examples to follow, I have hooked Vectron VGA Plus v2 up to [Vectron VGA Plus Text Mode](https://github.com/nickbild/vectron_vga_plus_text_mode), which I use to simplify drawing characters to the screen.  The Text Mode module is in turn controlled by a breadboard prototype of the Vectron 65 Plus 6502 CPU-based computer (a PCB of this prototype will be created in the near future).
 
 ## Media
 
